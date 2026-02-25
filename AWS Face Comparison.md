@@ -1,4 +1,4 @@
-# Laveyoo AWS Face Comparison
+# AWS Face Comparison
 
 **Plugin details**
 Perform highly secure biometric identity verification by utilizing intelligent Face Comparison technology. Compare faces between official ID documents, profile pictures, selfies, or images stored in S3 to verify identity.
